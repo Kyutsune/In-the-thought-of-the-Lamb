@@ -15,3 +15,9 @@ Arrivé à environ 5 mètre de la porte, il n’entend les voix que dans un murm
 Plus la porte se rapproche plus le joueur remarque qu’il entendait une douce musique émaner de la porte, une de ses musiques d’enfances qui nous berce, mais dans un contexte pareil, qui nous glace 
 
 Arrivé à hauteur de la porte, le joueur l’ouvre et essaye de la franchir
+
+```
+Think: l’idée au moment d’ouvrir la porte c’est de faire 
+« exploser » la tension installée dans la scène précédente 
+de « poursuite » faut trouver des idées pour que ça colle bien
+```
